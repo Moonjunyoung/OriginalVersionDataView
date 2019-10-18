@@ -1,0 +1,16 @@
+.Web-title{
+  text-align: center;
+  font-size: 20px;
+  color:gray;
+  margin-bottom: 60px;
+
+
+}
+.input-group.mb-3{
+width: 600px;
+position: absolute;
+
+left:30%;
+margin: auto;
+
+}

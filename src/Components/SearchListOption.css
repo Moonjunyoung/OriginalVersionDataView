@@ -1,0 +1,15 @@
+.col{
+    position:absoulte;
+    margin-left:29%;
+}
+
+.Failure-title{
+    position:absoulte;
+    margin-left:5%;
+    font-size :30px;
+}
+.Failure-list{
+    margin-top: 5%;
+    font-size:20px;
+
+}
